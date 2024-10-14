@@ -1,0 +1,6 @@
+[submodule "CS-312-Week-2"]
+	path = CS-312-Week-2
+	url = https://github.com/elijahsprouse/CS-312-Week-2.git
+[submodule "homework2/Calculator"]
+	path = homework2/Calculator
+	url = https://github.com/elijahsprouse/CS-312-Week-2.git
